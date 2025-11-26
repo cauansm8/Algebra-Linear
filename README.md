@@ -7,6 +7,6 @@ Professor: Cássio Machiaveli Oishi
 - Sistemas lineares
 - Autovalores e Autovetores
 - Pagerank
-- Decomposição Matriciais
+- Decomposição Matricial
 - Mínimos Quadrados
 - Regressão Linear
